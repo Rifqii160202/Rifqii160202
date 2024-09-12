@@ -1,4 +1,4 @@
-![Banner](![image](https://github.com/user-attachments/assets/a50f2a97-45aa-4b6d-91f0-de91c788eba1)
+![Banner]([image](https://github.com/user-attachments/assets/a50f2a97-45aa-4b6d-91f0-de91c788eba1)
 <h1 align="center">Hi 👋, I'm Muhammad Rifqi Febrian</h1>
 <h3 align="center">A passionate programming from Indonesia</h3>
 <img align="right" alt="Coding" width="300" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
