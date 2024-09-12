@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqii160202&label=Profile%20views&color=0e75b6&style=flat" alt="rifqii160202" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifqii160202" alt="rifqii160202" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **AI Enginner**
 
@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifqii160202&show_icons=true&locale=en&layout=compact" alt="rifqii160202" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifqii160202&show_icons=true&locale=en" alt="rifqii160202" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifqii160202&" alt="rifqii160202" /></p>
