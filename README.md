@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rifqi Febrian</h1>
 <h3 align="center">A passionate programming from Indonesia</h3>
-<img align="right" alt="Coding" width="300" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="down" alt="Coding" width="300" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqii160202&label=Profile%20views&color=0e75b6&style=flat" alt="rifqii160202" /> </p>
 
